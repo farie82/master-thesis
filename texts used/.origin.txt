@@ -1,0 +1,43 @@
+oorsprong van de teksten:
+tekst 1: www.schrijverspunt.nl/korte-verhalen/frost
+tekst 2: www.schrijverspunt.nl/korte-verhalen/frans
+tekst 3: www.schrijverspunt.nl/korte-verhalen/tandpasta
+tekst 4: www.geneesmiddeleninformatiebank.nl/bijsluiters/h124719.pdf
+tekst 5: www.db.cbg-meb.nl/bijsluiters/h56913.pdf
+tekst 6: www.schrijverspunt.nl/korte-verhalen/de-bloemenstal
+tekst 7: www.schrijverspunt.nl/korte-verhalen/triage
+tekst 8,9: www.schrijverspunt.nl/korte-verhalen/thuiswerkkookeilandbewoner
+tekst 10: www.schrijverspunt.nl/korte-verhalen/volendam-cafe-de-hemel
+tekst 11: www.schrijverspunt.nl/korte-verhalen/zoomkerst
+tekst 12: www.db.cbg-meb.nl/bijsluiters/h56913.pdf
+tekst 13,14: www.schrijverspunt.nl/korte-verhalen/vijf-minuten
+tekst 15: www.db.cbg-meb.nl/bijsluiters/h56913.pdf
+tekst 16: www.schrijverspunt.nl/korte-verhalen/slik
+tekst 17: www.schrijverspunt.nl/korte-verhalen/het-duel
+tekst 18,19,20,21: www.schrijverspunt.nl/korte-verhalen/penseelstreken
+tekst 22,23: www.schrijverspunt.nl/korte-verhalen/licht-en-duister
+tekst 24,25: www.schrijverspunt.nl/korte-verhalen/geluk
+tekst 26,27,28: www.schrijverspunt.nl/korte-verhalen/de-nederlandse-les
+tekst 29: www.db.cbg-meb.nl/bijsluiters/h21440.pdf
+tekst 30,31: www.schrijverspunt.nl/korte-verhalen/sommige-bloemen-bloeien-nooit
+
+med:
+32: www.db.cbg-meb.nl/bijsluiters/h113367.pdf
+33: www.db.cbg-meb.nl/bijsluiters/h16913.pdf
+34: www.db.cbg-meb.nl/bijsluiters/h16745.pdf
+35: www.db.cbg-meb.nl/bijsluiters/h16745.pdf
+36: www.db.cbg-meb.nl/bijsluiters/h16913.pdf
+37: www.db.cbg-meb.nl/bijsluiters/h113367.pdf
+38: www.db.cbg-meb.nl/bijsluiters/h56951.pdf
+39: www.db.cbg-meb.nl/bijsluiters/h56951.pdf
+40: www.db.cbg-meb.nl/bijsluiters/h56951.pdf
+41: www.db.cbg-meb.nl/bijsluiters/h09589.pdf
+42: www.db.cbg-meb.nl/bijsluiters/h09589.pdf
+43: www.db.cbg-meb.nl/bijsluiters/h09589.pdf
+44: www.db.cbg-meb.nl/bijsluiters/h16552.pdf
+45: www.db.cbg-meb.nl/bijsluiters/h16552.pdf
+46: www.db.cbg-meb.nl/bijsluiters/h16552.pdf deleted because of a syntax error in the text
+47: www.db.cbg-meb.nl/bijsluiters/h21440.pdf
+48: www.db.cbg-meb.nl/bijsluiters/h21440.pdf
+49: www.geneesmiddeleninformatiebank.nl/bijsluiters/h124719.pdf
+50: www.geneesmiddeleninformatiebank.nl/bijsluiters/h124719.pdf
